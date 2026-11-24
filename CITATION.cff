@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Special-relativistic Taylor-Couette flow: solver and figure scripts"
+authors:
+  - family-names: Gelekva
+    given-names: Ani
+    affiliation: "Free University of Tbilisi"
+license: MIT
+repository-code: "https://github.com/mean-ani-mustard/relativistic-taylor-couette"
+date-released: 2026-11-24
